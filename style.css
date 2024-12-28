@@ -11,8 +11,6 @@
     background-color: bisque;
 }
 
-.slideshow-elments {}
-
 .slideshow-element {
     text-align: center;
     position: absolute;
@@ -32,6 +30,5 @@
 .current {
     transform: translate(-50%, -50%) scale(1);
     transition: 0.5s ease-in-out;
-
 }
 
